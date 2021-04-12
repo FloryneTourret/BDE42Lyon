@@ -20,8 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79fbd714-3e63-4f53-a62c-5d62c1e1aad5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/scss/colors.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/scss/theme.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/resources/scss/app.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/components/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/components/Home.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/layouts/master.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/master.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
     </list>
@@ -159,7 +166,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="DatabaseDriversLRU" value="postgresql&#10;mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -186,6 +193,9 @@
       <updated>1618085658375</updated>
       <workItem from="1618085659460" duration="2160000" />
       <workItem from="1618088696433" duration="6192000" />
+      <workItem from="1618211119751" duration="453000" />
+      <workItem from="1618212912087" duration="128000" />
+      <workItem from="1618259439536" duration="3430000" />
     </task>
     <servers />
   </component>
@@ -202,19 +212,20 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="854" y="144" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618086725452">
+    <state x="854" y="144" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618213033966">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state x="854" y="144" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1036@0.0.1920.1036" timestamp="1618086725452" />
-    <state x="612" y="171" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1618089291389">
+    <state x="854" y="144" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1036@0.0.1920.1036" timestamp="1618213033966" />
+    <state x="612" y="171" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1618261671000">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state x="612" y="171" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1036@0.0.1920.1036" timestamp="1618089291389" />
-    <state x="623" y="228" width="672" height="678" key="search.everywhere.popup" timestamp="1618089680369">
+    <state x="612" y="171" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1036@0.0.1920.1036" timestamp="1618261671000" />
+    <state x="623" y="228" width="672" height="678" key="search.everywhere.popup" timestamp="1618263058946">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state x="623" y="228" width="672" height="678" key="search.everywhere.popup/0.0.1920.1036@0.0.1920.1036" timestamp="1618089680369" />
+    <state x="623" y="228" width="672" height="678" key="search.everywhere.popup/0.0.1920.1036@0.0.1920.1036" timestamp="1618263058946" />
   </component>
 </project>
